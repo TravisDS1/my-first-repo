@@ -1,0 +1,18 @@
+commit 999c1a7c5a62bf97244f7051a299ea04f88da91a
+Author: TravisDS1 <tschoneman369@hotmail.com>
+Date:   Sun Nov 18 23:16:16 2018 -0600
+
+    added gitignore
+
+commit 4186ddd41e5060a424c508e8a4536ddda9acc552
+Author: TravisDS1 <tschoneman369@hotmail.com>
+Date:   Sun Nov 18 22:59:35 2018 -0600
+
+    added two files
+
+commit bedd6664614db08837a5293a5184b81c7ffed689
+Author: TravisDS1 <tschoneman369@hotmail.com>
+Date:   Sun Nov 18 22:53:27 2018 -0600
+
+    added readme.txt
+
