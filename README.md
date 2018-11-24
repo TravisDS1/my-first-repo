@@ -1,5 +1,3 @@
-# Travis S
-
 ### Geography
 
 I live in Nice, France.
