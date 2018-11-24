@@ -2,7 +2,7 @@
 
 ### Geography
 
-I live in Nice, France.
+I live in Houston, TX, USA.
 
 ### Reading
 
@@ -16,8 +16,8 @@ Three of my favorite books are:
 
 Last night I dreamt about eating in these restaurants:
 
-   1. Illia Pasta, Nice
-   2. Ramen Kumano. Nice
+   1. Ramen Jin
+   2. Hughies
 
 ### Contact
 
