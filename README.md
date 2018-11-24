@@ -21,4 +21,4 @@ Last night I dreamt about eating in these restaurants:
 
 ### Contact
 
-The best way to get in touch with me is via email: tulipdart65@gmail.com
+*No contact information available*
